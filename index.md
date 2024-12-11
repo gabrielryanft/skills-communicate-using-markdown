@@ -7,3 +7,17 @@
 # This is a commant
 $ cowsay -f alpaca "i am a alpaca."
 ```
+
+To create a ilst:
+
+```markdown
+- [ ] this is a item
+- [ ] papatudo
+- [ ] end?
+```
+
+Result: 
+
+- [ ] this is a item
+- [ ] papatudo
+- [ ] end?
