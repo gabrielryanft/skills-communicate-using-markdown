@@ -21,3 +21,4 @@ Result:
 - [ ] this is a item
 - [ ] papatudo
 - [ ] end?
+- [X] merge
